@@ -37,5 +37,6 @@
 
 ## Contact
 For any issues or suggestions, feel free to contact.
-**Author**: Rohit Krishnan
-**Email**: rohitkrishnanofficial@gmail.com
+
+- **Author**: Rohit Krishnan
+- **Email**: rohitkrishnanofficial@gmail.com
