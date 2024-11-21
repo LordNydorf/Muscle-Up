@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android studio/Fitness_App/app/src/main/res/layout/activity_all_exercises.xml" value="0.25" />
+        <entry key="..\:/Android studio/Fitness_App/app/src/main/res/layout/activity_exercises.xml" value="0.176" />
+        <entry key="..\:/Android studio/Fitness_App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android studio/Fitness_App/app/src/main/res/layout/list_item.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/drawable/card_back.xml" value="0.2555" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/drawable/card_back_btn.xml" value="0.236" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/drawable/card_back_plus_minus.xml" value="0.236" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/drawable/circle.xml" value="0.236" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/layout/activity_bmi_history.xml" value="0.1" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/layout/activity_bmi_page.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/layout/activity_bmi_result.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/layout/activity_exersice.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppMerged/app/src/main/res/layout/historyv.xml" value="0.4" />
+        <entry key="..\:/Users/Moham/AndroidStudioProjects/Fitness_AppfinalClone/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Moham/Desktop/MyApplication/app/src/main/res/drawable/card_back.xml" value="0.121" />
+        <entry key="..\:/Users/Moham/Desktop/MyApplication/app/src/main/res/drawable/card_back_btn.xml" value="0.121" />
+        <entry key="..\:/Users/Moham/Desktop/MyApplication/app/src/main/res/drawable/card_back_male_female.xml" value="0.2445" />
+        <entry key="..\:/Users/Moham/Desktop/MyApplication/app/src/main/res/drawable/card_back_plus_minus.xml" value="0.2445" />
+        <entry key="..\:/Users/Moham/Desktop/MyApplication/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.121" />
+        <entry key="..\:/Users/Moham/Desktop/MyApplication/app/src/main/res/layout/activity_bmi_page.xml" value="0.25" />
+        <entry key="..\:/Users/Moham/Desktop/MyApplication/app/src/main/res/layout/activity_bmi_result.xml" value="0.264" />
+        <entry key="..\:/Users/Moham/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 1/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/activity_bmi_history.xml" value="0.3625" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 1/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/activity_bmi_page.xml" value="0.3625" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 1/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/activity_bmi_result.xml" value="0.328125" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 1/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/activity_main.xml" value="0.328125" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 1/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/historyv.xml" value="0.25" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 1/Fitness_App-Bmi_Calc_Page/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2285" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3365" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/drawable/card_back.xml" value="0.3365" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/drawable/card_back_btn.xml" value="0.3365" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/drawable/card_back_male_female.xml" value="0.3365" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/drawable/card_back_not_focus.xml" value="0.3365" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.3365" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.3365" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3365" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/activity_bmi_history.xml" value="0.307518115942029" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/activity_bmi_page.xml" value="0.307518115942029" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/activity_bmi_result.xml" value="0.307518115942029" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/activity_main.xml" value="0.307518115942029" />
+        <entry key="..\:/Users/ahmed/Downloads/Compressed/DS Lecture 3/Fitness_App-Bmi_Calc_Page/app/src/main/res/layout/historyv.xml" value="0.33" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.1045" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.271" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/drawable/food_layout_color.xml" value="0.2995" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.231" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1045" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/drawable/tx_box_background.xml" value="0.1045" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_all_exercises.xml" value="0.38697916666666665" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_bmi_history.xml" value="0.358695652173913" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_bmi_page.xml" value="0.358695652173913" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_bmi_result.xml" value="0.67" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_exercises.xml" value="0.38697916666666665" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_exersice.xml" value="0.358695652173913" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_food_page.xml" value="0.67" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_info_page.xml" value="0.18" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_loading_page.xml" value="0.5" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/finalFitness_App/app/src/main/res/layout/historyv.xml" value="0.34146341463414637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
